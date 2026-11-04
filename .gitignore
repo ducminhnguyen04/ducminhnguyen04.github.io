@@ -1,0 +1,9 @@
+# CV stays local (not published)
+cv/
+
+# Private drafts: do not publish
+NguyenMinhDuc_CV.pdf
+Sim2Real.pdf
+
+# Original full-size photo (site uses assets/profile.jpg)
+assets/avatar.JPG
